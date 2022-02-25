@@ -9,7 +9,7 @@ int main()
         o número de quilômetro rodado e calcular e escrever o valor total do aluguel, o valor do desconto,
         o numero de dias, e a quilometragem rodada.
     */
-    printf("calcular aluguem do carro\n");
+    printf("calcular aluguel do carro\n");
 
     float taxaFixa, taxaKm, nDias, nKm, aluguel, desconto, taxaKmTotal;
 
